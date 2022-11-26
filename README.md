@@ -1,6 +1,6 @@
 # LSEG-task1
 
-To save html to table csv is used GrabzIt library. https://grabz.it/
+To save html to table csv is used GrabzIt library. We need to get special key from site after registration. 60 requests to server per minute with free account. https://grabz.it/
 Added via Maven
 
 Becouse of Java 9 and later have not library to saving files (JAXBException: Implementation of JAXB-API has not been found on module path or classpath) 

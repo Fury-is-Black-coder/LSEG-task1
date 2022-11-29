@@ -1,5 +1,7 @@
 # LSEG-task1
 
+**To avoid errors, you need to add the path to the libraries from folder "libraries" in each project. add aspose.cells-22.101.jar**
+
 To save html to table csv is used GrabzIt library. We need to get special key from site after registration. 60 requests to server per minute with free account. https://grabz.it/
 Added via Maven
 
